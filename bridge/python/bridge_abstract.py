@@ -1,5 +1,5 @@
 """
-Bridge pattern example.
+Bridge pattern example. Based on Wikipedia source
 """
 from abc import ABCMeta, abstractmethod
 
